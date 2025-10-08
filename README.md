@@ -15,9 +15,12 @@
 
 ### 담당 업무
 - 보스 행동 패턴 구현
+<img width="1280" height="720" alt="슬라이드42" src="https://github.com/user-attachments/assets/a1828d43-3d0c-42d9-abd9-3259ce27b7a7" />
 
-### **개발 문서 (개발 일지)**
-- 기능별 개발 과정을 보고 싶으면 [**여기**](https://www.notion.so/b67b5069afb9481ea05498e60245b358?pvs=21)를 눌러주세요
+<img width="1280" height="720" alt="슬라이드43" src="https://github.com/user-attachments/assets/a17a413e-fc64-4d60-9aed-36742e7f7ac3" />
+
+<img width="1280" height="720" alt="슬라이드44" src="https://github.com/user-attachments/assets/2c5c3ecd-91df-4c50-bc35-eee737b0cde7" />
+
 
 ### **Steam 상점페이지**
 [![Harmagedon](https://github.com/user-attachments/assets/24c29b52-4bd8-4cbf-976e-93aac210210c)](https://store.steampowered.com/app/3161990/Harmagedon/)
